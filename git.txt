@@ -6,4 +6,5 @@
 6.  git push origin master:提交到远端仓库，上传到服务器
 7.  git remote -v:查看远端仓库的地址和远端仓库的对应关系
 8.  git clone https://github.com/majun215/APUE.git:下载到本地
-9.  git pull origin master:拉取远端仓库中的更新 
+9.  git pull origin master:拉取远端仓库中的更新
+10. git clean -d -fx:清除本地文件
